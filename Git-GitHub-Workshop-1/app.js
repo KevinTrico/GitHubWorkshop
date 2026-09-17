@@ -5,7 +5,7 @@
 
 // SOLO WARM-UP: Change the tagline or about text and refresh the browser.
 const TEAM_INFO = {
-  name: "OUR DEVELOPMENT TEAM",
+  name: "DEVELOPMENT TEAM",
   tagline: "Building cool things together",
   about:
     "We are learning Git and GitHub by building, sharing, and improving small projects together. This page is our first shared space on the web.",
