@@ -29,7 +29,7 @@ const PARTNER_B = {
 
 // PARTNER A TASK: Add one skill that Partner A wants the team to practice.
 // PARTNER B TASK: Add a different skill that Partner B wants the team to practice.
-const SKILLS = ["Your skills"];
+const SKILLS = ["Experience with Programming Languages"];
 
 // PARTNER A & B TASK: Add project ideas that the team might want to build together.
 const PROJECT_IDEAS = [
